@@ -5,3 +5,4 @@ This game is the online version of the Simon electronic game with its circular d
 
 check out the code feel free to contribute 
 
+Using colored blocks, lights, and sounds as directional prompts, the Simon game engages cognitive function that works on sequential processing, short-term memory, attention and visual processing.
