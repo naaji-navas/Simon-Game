@@ -1,3 +1,5 @@
+//game.js
+
 var buttonColors = ["red", "blue", "green", "yellow"];
 
 var gamePattern = [];
